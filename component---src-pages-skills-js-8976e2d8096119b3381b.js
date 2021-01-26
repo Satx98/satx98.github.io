@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{VfgA:function(e,n,l){"use strict";l.r(n);var a=l("q1tI"),t=l.n(a),s=l("zLBQ"),i=l.n(s);n.default=function(){return t.a.createElement("div",null,t.a.createElement("div",{className:i.a.SkillsPageBody}))}},zLBQ:function(e,n,l){e.exports={SkillsPageBody:"skills-module--SkillsPageBody--1_tFZ"}}}]);
-//# sourceMappingURL=component---src-pages-skills-js-8976e2d8096119b3381b.js.map

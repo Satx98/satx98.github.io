@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/pages/contact.js"],"names":["contact"],"mappings":"6FAAA,gCAMeA,UAJC,WACd,OAAO","file":"component---src-pages-contact-js-8a302936507ac11cdd95.js","sourcesContent":["import React from 'react';\r\n\r\nconst contact = () => {\r\n  return <div></div>;\r\n};\r\n\r\nexport default contact;\r\n"],"sourceRoot":""}
